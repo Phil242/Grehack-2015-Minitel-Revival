@@ -10,3 +10,5 @@ Ce projet contient tous les fichiers nécessaires à faire fonctionner l’épre
 **Challenge 2**, 125 points : Le Minitel était là pour faire de l’argent en vous gardant connecté au service le plus longtemps possible. Et tous les coups étaient permis ! C’est à vous.
 
 **Challenge 3**, 325 points : Hacker le serveur. Maintenant il va falloir s’attaquer sérieusement au serveur et voir ce qu’il cache.
+
+***Conseils*** : tous les challenges se résolvent depuis le clavier du Minitel. Ne rien débrancher et ne pas toucher au Raspberry Pi. Il est FORTEMENT conseillé de ne pas utiliser la touche "Fnct" qui bascule le Minitel dans des modes de fonctionnement qui ne sont pas gérés (conseil à prendre au premier degré, sisi !) et qui dans tous les cas ne contribue en rien à la résolution des divers challenges.
