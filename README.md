@@ -12,3 +12,5 @@ Ce projet contient tous les fichiers nécessaires à faire fonctionner l’épre
 **Challenge 3**, 325 points : Hacker le serveur. Maintenant il va falloir s’attaquer sérieusement au serveur et voir ce qu’il cache.
 
 ***Conseils*** : tous les challenges se résolvent depuis le clavier du Minitel. Ne rien débrancher et ne pas toucher au Raspberry Pi. Il est FORTEMENT conseillé de ne pas utiliser la touche "Fnct" qui bascule le Minitel dans des modes de fonctionnement qui ne sont pas gérés (conseil à prendre au premier degré, sisi !) et qui dans tous les cas ne contribue en rien à la résolution des divers challenges.
+
+Plus de détails pour la mise en oeuvre, c'est par ici : https://phil242.wordpress.com/2015/11/24/grehack-2015-minitel-revival/
