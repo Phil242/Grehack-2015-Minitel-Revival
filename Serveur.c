@@ -4,7 +4,7 @@
  *
  * Changer les ports série sur lesquels les Minitel avec les constantes port1 port2 etc.
  *
- * Compilation : gcc -Wall -lpthread Serveur9.c -o Serveur9
+ * Compilation : gcc -Wall -lpthread Serveur.c -o Serveur
  *
  * Remerciements : Frédéric BISSON (https://github.com/Zigazou/PyMinitel) 
  *                 pour sa lib Python dont je me suis inspiré pour le champ de saisie
